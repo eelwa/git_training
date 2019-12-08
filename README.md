@@ -1,5 +1,16 @@
 # git_training
 
+**Task list**
+[] utworz plik 
+[] dodaj plik do stagingu:
+  *git add nazwapliku.txt
+[] dodaj commit:
+  *git commit -m "tresc wiadomosci"
+[] dodaj plik do GitHub:
+  * git push
+
+
+
 Instrukcja do mojego projektu:
 
 * sklonuj projekt
@@ -12,11 +23,3 @@ def my_finction():
   print ('Hello from ')
 }```
 
-**Task list**
-[] utworz plik 
-[] dodaj plik do stagingu:
-  *git add nazwapliku.txt
-[] dodaj commit:
-  *git commit -m "tresc wiadomosci"
-[] dodaj plik do GitHub:
-  * git push
